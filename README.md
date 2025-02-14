@@ -1,13 +1,20 @@
-- 👋 Hi, I’m @KyonKyon0
-- 👀 I’m interested in Back End Developer
-- 🌱 I’m currently learning HTML For my firts portofolio 
-- 💞️ I’m looking to collaborate on Google LLC In the future
-- 📫 How to reach me oss.tam1137@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: START CODING AT 12 JULY 2024
+# 💻 Oscar Victorious Putra Tambunan
 
+👋 Hi there! I'm Oscar, a passionate Python programmer specializing in machine learning and AI implementation. I enjoy solving real-world problems through code and continuously expanding my skills in data science and artificial intelligence.
 
-<!---
-KyonKyon0/KyonKyon0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me:
+- 🎓 Currently studying at Gunadarma University  
+- 💡 Focused on Python for AI and Machine Learning projects  
+- 📊 Interested in data analysis, deep learning, and automation  
+- 🌱 Constantly learning and building projects to sharpen my skills  
+
+## 🛠️ Skills & Tools:
+- Programming Languages: Python (NumPy, Pandas, Scikit-learn, TensorFlow)  
+- Tools & Platforms: Jupyter Notebook, VSCode, Git, GitHub  
+- Database Management: MySQL, SQLite  
+
+## 📫 Connect with Me:
+- LinkedIn: [linkedin.com/in/oscartambunan](#)  
+- GitHub: [github.com/kyonkyon0](#)  
+
+🚀 Let's collaborate on exciting projects and learn together! 😊  
